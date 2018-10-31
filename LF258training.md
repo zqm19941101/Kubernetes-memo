@@ -1470,7 +1470,7 @@ Deployments
 - Used for canary and otehr deployment patterns
 
 ```
-curl http://127.0.0.1:8080/apis/extesions/v1beta1
+curl http://127.0.0.1:8080/apis/extensions/v1beta1
 
 {
     "kind": "APIresourceList",
